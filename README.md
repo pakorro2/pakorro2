@@ -1,7 +1,7 @@
 <div id="header" align="center">
 	<img src="https://pakodev.site/static/media/pako.950a7ede47222e6bb4b0.png" width="150" alt="Pako Cárdenas">
-	<h1>Hola, Soy Pako🤚</h1>
-	<h2 style="margin-top: 0;">Soy Full-Stack Web Developer.</h2>
+	<h1>Hola, soy Pako🤚</h1>
+	<h3 aling="center">Soy Desarrollador web Full-Stack con experiencia en proyectos reales, cuento con experiencia en 2 Start-Up de software en las cuales participe en diferentes áreas, principalmente en el desarrollo de la idea hasta su uso en campo. Soy un apasionado por la tecnología y en particular el desarrollo por la capacidad de crear soluciones. Cuento con buena actitud y habilidades de colaboración dentro de un equipo. Estoy abierto al cambio, considero importante una constante formación para ofrecer soluciones de calidad.</h3>
 </div>
 <!--
 **pakorro2/pakorro2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
