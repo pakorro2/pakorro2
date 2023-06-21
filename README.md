@@ -1,7 +1,8 @@
 <div id="header" align="center">
-	<img src="https://pakodev.site/static/media/pako.950a7ede47222e6bb4b0.png" width="200" alt="Pako Cárdenas">
+	<img src="https://pakodev.site/static/media/pako.950a7ede47222e6bb4b0.png" width="200" align="right" alt="Pako Cárdenas">
+	<h1>Hola, Soy Pako🤚</h1>
+	<h2>Soy Full-Stack Web Developer.</h2>
 </div>
-### Hi there 👋
 <!--
 **pakorro2/pakorro2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
